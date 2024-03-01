@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:()
-- Live Site URL: ()
+- Solution URL:(https://github.com/Jack-OC/Stats-Preview-Card)
+- Live Site URL: (https://jack-oc.github.io/Stats-Preview-Card/)
 
 
 ## My process
